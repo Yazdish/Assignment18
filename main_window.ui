@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>371</width>
-    <height>420</height>
+    <width>471</width>
+    <height>387</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -25,7 +25,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -44,7 +44,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -63,7 +63,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -82,7 +82,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -101,7 +101,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -120,7 +120,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -139,7 +139,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -158,7 +158,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -177,7 +177,7 @@
       </property>
       <property name="font">
        <font>
-        <pointsize>30</pointsize>
+        <pointsize>40</pointsize>
         <bold>true</bold>
        </font>
       </property>
@@ -193,7 +193,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>371</width>
+     <width>471</width>
      <height>22</height>
     </rect>
    </property>
